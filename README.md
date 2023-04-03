@@ -1,1 +1,3 @@
-
+The program should have a convenient user interface with the necessary menu items. All information should be in different files linked in a certain way. Implementation of the function: adding, editing, deleting data by components, searching for data by various features, etc. (optional). Other methods, depending on the specifics of the task.
+Develop a class hierarchy using inheritance (at least 3 levels of inheritance). Develop and use classes of containers, iterators and algorithms (your own and STL). Perform exception handling. When implementing the operation of editing, adding, deleting information, it is necessary to provide for the operation of undoing the last actions.
+Note: the basic algorithms are not to add, remove and view a container.
